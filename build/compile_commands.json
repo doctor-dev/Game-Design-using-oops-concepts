@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/mnt/d/OOPS HA/warrior-game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/OOP_Design.dir/main.cpp.o -c \"/mnt/d/OOPS HA/warrior-game/main.cpp\"",
+  "file": "/mnt/d/OOPS HA/warrior-game/main.cpp"
+},
+{
+  "directory": "/mnt/d/OOPS HA/warrior-game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/OOP_Design.dir/player.cpp.o -c \"/mnt/d/OOPS HA/warrior-game/player.cpp\"",
+  "file": "/mnt/d/OOPS HA/warrior-game/player.cpp"
+},
+{
+  "directory": "/mnt/d/OOPS HA/warrior-game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/OOP_Design.dir/wizard.cpp.o -c \"/mnt/d/OOPS HA/warrior-game/wizard.cpp\"",
+  "file": "/mnt/d/OOPS HA/warrior-game/wizard.cpp"
+},
+{
+  "directory": "/mnt/d/OOPS HA/warrior-game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/OOP_Design.dir/warrior.cpp.o -c \"/mnt/d/OOPS HA/warrior-game/warrior.cpp\"",
+  "file": "/mnt/d/OOPS HA/warrior-game/warrior.cpp"
+},
+{
+  "directory": "/mnt/d/OOPS HA/warrior-game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/OOP_Design.dir/functions.cpp.o -c \"/mnt/d/OOPS HA/warrior-game/functions.cpp\"",
+  "file": "/mnt/d/OOPS HA/warrior-game/functions.cpp"
+},
+{
+  "directory": "/mnt/d/OOPS HA/warrior-game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/OOP_Design.dir/weapons.cpp.o -c \"/mnt/d/OOPS HA/warrior-game/weapons.cpp\"",
+  "file": "/mnt/d/OOPS HA/warrior-game/weapons.cpp"
+}
+]

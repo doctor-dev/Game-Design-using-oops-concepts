@@ -1,0 +1,5 @@
+/mnt/d/OOPS HA/warrior-game/build/CMakeFiles/edit_cache.dir
+/mnt/d/OOPS HA/warrior-game/build/CMakeFiles/package_source.dir
+/mnt/d/OOPS HA/warrior-game/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/OOPS HA/warrior-game/build/CMakeFiles/package.dir
+/mnt/d/OOPS HA/warrior-game/build/CMakeFiles/OOP_Design.dir
